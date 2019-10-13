@@ -10,4 +10,4 @@ Once validation data set is created. You can start the model to train and then p
 
 <b>python transfer_learning.py --mode train</b>
 
-<b>python transfer_learning.py --mode predict --image tests/dina.jpg</b>
+<b>python transfer_learning.py --mode predict --image PATH_TO_YOUR_IMAGE.JPG</b>
