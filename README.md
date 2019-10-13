@@ -7,6 +7,6 @@ Use create validation script to create a separate validaton set randomly from wi
 
 Once validation data set is created. You can start the model to train and then predict...
 
-python transfer_learning.py --mode train
+<b>python transfer_learning.py --mode train</b>
 
 python transfer_learning.py --mode predict --image tests/dina.jpg
