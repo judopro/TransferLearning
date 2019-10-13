@@ -1,5 +1,6 @@
 # Transfer Learning
-Dog Breed Classification using Machine Learning
+Dog Breed Classification using Machine Learning - Article link : 
+https://medium.com/@judopro/image-recognition-transfer-learning-great-performance-with-limited-data-keras-tensorflow-1299c87f8423
 
 Download data set from http://vision.stanford.edu/aditya86/ImageNetDogs/images.tar
 
